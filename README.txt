@@ -17,5 +17,3 @@ wachtwoord: test
 particulier:
 email: particulier@test.nl
 wachtwoord: test
-
-Als je zelf een account maakt moet je twee keer op de registreren knop druk nadat je alles hebt ingevuld. Deze bug hebben we helaas er niet uit kunnen halen.
